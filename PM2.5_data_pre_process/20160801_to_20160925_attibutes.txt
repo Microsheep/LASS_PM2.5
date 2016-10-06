@@ -1,0 +1,314 @@
+========== Types Count ==========
+10610690: app#date#device#device_id#fake_gps#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_0#s_1#s_2#s_3#s_4#s_d0#s_d1#s_h0#s_t0#tick#time#ver_app#ver_format
+2182174: app#date#device#device_id#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_0#s_1#s_2#s_3#s_d0#s_d1#s_d2#s_h0#s_t0#tick#time#ver_app#ver_format
+1259820: app#date#device#device_id#fake_gps#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_d1#s_h0#s_t0#time#ver_app#ver_format
+453886: app#date#fmt_opt#gps_lat#gps_lon#name#pm10#pm2_5#siteid#sitename#time#ver_format
+368434: app#date#device#device_id#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_d1#s_h0#s_t0#time#ver_app#ver_format
+272674: app#date#device#device_id#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_0#s_1#s_2#s_3#s_4#s_d0#s_d1#s_h0#s_t0#tick#time#ver_app#ver_format
+236264: app#date#device#device_id#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_0#s_1#s_2#s_3#s_d0#s_d1#s_h0#s_t0#tick#time#ver_app#ver_format
+134396: app#date#device#device_id#fake_gps#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_d1#s_d2#s_h0#s_t0#tick#time#ver_app#ver_format
+123191: app#date#device#device_id#fake_gps#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_d1#s_h0#s_t0#tick#time#ver_app#ver_format
+105388: app#date#device#device_id#fake_gps#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_d1#s_h0#s_t0#tick#time#ver_app#ver_format
+65339: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+44563: app#date#device#device_id#fake_gps#gps_lat#gps_lon#name#s_d0#s_d1#s_d2#s_g8#s_h2#s_t2#time#ver_app#ver_format
+38789: app#date#device#device_id#fake_gps#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_0#s_1#s_2#s_3#s_4#s_d0#s_d1#s_d2#s_h0#s_t0#tick#time#ver_app#ver_format
+26887: app#date#device#device_id#fake_gps#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_0#s_1#s_2#s_4#s_d0#s_d1#s_d2#s_h0#s_t0#tick#time#ver_app#ver_format
+16734: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+15139: app#date#device#device_id#fake_gps#gps_lat#gps_lon#name#s_d0#s_h0#s_t0#time#ver_app#ver_format
+3586: app#date#device#device_id#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s0#s1#s2#tick#time#ver_app#ver_format
+2065: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+1917: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+1731: app#date#device#device_id#fake_gps#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_d1#s_h2#s_t2#tick#time#ver_app#ver_format
+1443: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+1412: name#s_d0#s_d1#s_h0
+1260: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+635: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+535: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+507: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+472: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+458: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+446: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+410: app#date#device#device_id#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_h0#s_t0#tick#time#ver_app#ver_format
+292: app#date#device#device_id#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#h#name#t#tick#time#ver_app#ver_format
+276: app#date#device#device_id#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#tick#time#ver_app#ver_format
+275: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+238: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+227: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+184: app#date#device#device_id#fake_gps#gps_lat#gps_lon#name#s_d0#s_d1#s_h0#s_t0#time#ver_app#ver_format
+180: app#date#device#device_id#fake_gps#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_0#s_1#s_3#s_4#s_d0#s_d1#s_h0#s_t0#tick#time#ver_app#ver_format
+174: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+154: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+131: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+124: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+122: app#date#device#device_id#fake_gps#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_d1#s_h0#s_t0#time#ver_app#ver_format
+116: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+115: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+111: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+97: app#co#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+88: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+87: app#county#date#fmt_opt#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec
+85: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+83: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+78: app#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+68: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+64: app#co#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+49: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format
+49: app#county#date#fmt_opt#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#time#ver_format
+47: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+47: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+45: device#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_0#s_1#s_3#s_4#s_d0#s_d1#s_h0#s_t0#time
+44: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+39: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+37: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+37: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+35: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+33: app#county#date#fmt_opt#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+33: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#o3#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+32: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+31: app#county#date#fmt_opt#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+26: app#county#date#fmt_opt#gps_lat#gps_lon#name#psi#publishtime#siteengname#sitename#sitetype#time#ver_format
+25: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+24: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+23: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+22: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+21: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+20: app#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+19: app#co#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+18: app#date#device#device_id#fake_gps#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_d1#s_h0#time#ver_app#ver_format
+18: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format
+16: app#date#device#device_id#fake_gps#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_d1#time#ver_app#ver_format
+16: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+16: app#date#device#device_id#fake_gps#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_d1#s_t0#time#ver_app#ver_format
+16: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+16: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+15: app#date#device#device_id#fake_gps#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_0#s_1#s_2#s_3#s_4#s_d0#s_h0#s_t0#tick#time#ver_app#ver_format
+15: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+15: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+14: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format
+14: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+14: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+13: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+13: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+13: app#county#date#fmt_opt#gps_lat#gps_lon#name#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+12: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+12: app#county#date#fmt_opt#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format
+12: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#o3#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+11: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+11: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+11: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+11: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+10: app#date#device#device_id#fake_gps#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d1#time#ver_app#ver_format
+9: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+9: app#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+9: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+9: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+9: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+9: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+8: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec
+8: name#s_d0#s_d1
+8: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+7: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+7: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+7: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+7: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+6: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+6: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+6: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+6: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format
+6: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+5: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+5: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+5: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+5: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+5: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#windspeed
+5: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+5: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+5: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+5: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+5: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+4: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+4: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+4: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+4: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+4: app#date#device#device_id#fake_gps#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#time#ver_app#ver_format
+4: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+4: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+4: app#co#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+4: app#date#device#device_id#fake_gps#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d1#s_h0#s_t0#time#ver_app#ver_format
+4: app#co#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+4: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+3: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+3: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#o3#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+3: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+3: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+3: app#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+3: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+3: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+3: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+3: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+3: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+3: app#co#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+3: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+3: app#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+3: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+3: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec
+3: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+3: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+3: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+3: app#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+3: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+3: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+2: app#date#device#device_id#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_d1#s_h0#time#ver_app#ver_format
+2: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+2: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+2: app#date#device#device_id#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d1#time#ver_app#ver_format
+2: app#county#date#fmt_opt#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#windspeed
+2: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+2: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+2: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+2: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+2: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec
+2: app#county#date#fmt_opt#gps_lat#gps_lon#name#pm10#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+2: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+2: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+2: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+2: app#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+2: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+2: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+2: app#date#device#device_id#fake_gps#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d1#s_t0#time#ver_app#ver_format
+2: app#co#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+2: app#co#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+2: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+2: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format
+2: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec
+2: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+2: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+2: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+2: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+2: app#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+2: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+2: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+2: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format
+2: app#date#device#device_id#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_d0#s_d1#time#ver_app#ver_format
+2: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+2: app#county#date#fmt_opt#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+2: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+2: app#date#device#device_id#fake_gps#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#s_h0#s_t0#time#ver_app#ver_format
+2: app#date#device#device_id#fmt_opt#gps_alt#gps_fix#gps_lat#gps_lon#gps_num#name#time#ver_app#ver_format
+2: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#windspeed
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+1: app#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+1: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+1: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format
+1: app#county#date#fmt_opt#gps_lat#gps_lon#name#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#name#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#o3#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#o3#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+1: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+1: app#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#name#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#majorpollutant#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#status#time#ver_format#winddirec
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#so2#time#ver_format#winddirec#windspeed
+1: app#co#county#date#fmt_opt#fpmi#gps_lat#gps_lon#name#no#no2#nox#o3#pm10#pm2_5#psi#publishtime#siteengname#sitename#sitetype#status#time#ver_format
+=================================
+Total Corrupted: 353097
+=========== All Types ===========
+app
+co
+county
+date
+device
+device_id
+fake_gps
+fmt_opt
+fpmi
+gps_alt
+gps_fix
+gps_lat
+gps_lon
+gps_num
+h
+majorpollutant
+name
+no
+no2
+nox
+o3
+pm10
+pm2_5
+psi
+publishtime
+s0
+s1
+s2
+s_0
+s_1
+s_2
+s_3
+s_4
+s_d0
+s_d1
+s_d2
+s_g8
+s_h0
+s_h2
+s_t0
+s_t2
+siteengname
+siteid
+sitename
+sitetype
+so2
+status
+t
+tick
+time
+ver_app
+ver_format
+winddirec
+windspeed
+=================================
